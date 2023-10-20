@@ -1,5 +1,7 @@
 import snscrape.modules.twitter as sntwitter
 
+import tweepy as ts
+
 # Replace the tweet ID below with the ID of the tweet you want to scrape
 tweet_id = 1513639102339588099
 
